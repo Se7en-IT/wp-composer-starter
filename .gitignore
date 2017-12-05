@@ -1,0 +1,7 @@
+*
+!.gitignore
+!composer.json
+!composer.lock
+!wp-config.php
+!index.php
+!.env.example

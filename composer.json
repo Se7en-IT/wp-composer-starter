@@ -1,0 +1,19 @@
+{
+    "require": {
+        "wpackagist-plugin/advanced-custom-fields": "4.*",
+        "wpackagist-plugin/custom-post-type-ui": "1.*",
+        "wpackagist-theme/twentyseventeen": "1.*",
+        "johnpbloch/wordpress-core-installer": "1.*",
+        "johnpbloch/wordpress": "4.*",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ]
+}
